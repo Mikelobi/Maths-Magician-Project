@@ -5,7 +5,7 @@
 
 Comin soon
 
-<h1 align="center"> ShowMax </h1>
+<h1 align="center"> Maths Magician </h1>
 
 > Dive into the world of a math magician where you can make calculations while getting a peak inside the brilliant minds of the greatest mathematicians.
 
