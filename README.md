@@ -38,9 +38,9 @@ To get a local copy up and running follow these setup steps below.
 
 👤 **Authors**
 
-- GitHub: [Ben Kiarie](https://github.com/Mikelobi)
-- Twitter: [Optimize](https://twitter.com/@omulum)
-- LinkedIn: [Ben Kiarie](https://www.linkedin.com/in/benjamin-kiarie-180b66149/)
+- GitHub: [Mikelobi](https://github.com/Mikelobi)
+- Twitter: [Mikelobi](https://twitter.com/@omulum)
+- LinkedIn: [Mikelobi](https://www.linkedin.com/in/benjamin-kiarie-180b66149/)
 
 ## 🤝 Contributing
 
