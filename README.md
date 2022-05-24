@@ -1,62 +1,52 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+## Preview
+<p align="center">Desktop view</p>
 
-> Description the project.
+Comin soon
+
+<h1 align="center"> ShowMax </h1>
+
+> Dive into the world of a math magician where you can make calculations while getting a peak inside the brilliant minds of the greatest mathematicians.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- **REACT** 
 
-## Live Demo (if available)
+## DEMO
 
-[Live Demo Link](https://livedemo.com)
+- Live demo link coming soon 
+  
+## Video Description
 
+- 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+To get a local copy up and running follow these setup steps below.
 
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Simply fork this project
+- run `npm install `to install all dependencies
+- run `npm run build` to bundle the project with webpack, and
+- run `npm start` to launch the application
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Authors
 
-👤 **Author1**
+👤 **Authors**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Ben Kiarie](https://github.com/Mikelobi)
+- Twitter: [Optimize](https://twitter.com/@omulum)
+- LinkedIn: [Ben Kiarie](https://www.linkedin.com/in/benjamin-kiarie-180b66149/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Benmuiruri/Maths-Magician-Project/issues).
 
 ## Show your support
 
@@ -64,10 +54,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Huge thanks to everyone who helped us in any capacity to complete this project
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
