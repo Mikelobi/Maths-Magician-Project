@@ -1,0 +1,9 @@
+.calculator {
+  background-color: rgba(26, 26, 26, 0.541);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-wrap: wrap;
+  height: 390px;
+  width: 400px;
+  padding: 5px;
+}
