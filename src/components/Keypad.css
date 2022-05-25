@@ -1,11 +1,9 @@
 button {
-  border: none;
-  border-radius: 50%;
+  border: 0.02px solid rgb(207, 203, 203);
   cursor: pointer;
   font-size: 24px;
-  margin: 5px;
   height: 60px;
-  width: 60px;
+  width: 97.5px;
 }
 
 button:active {
@@ -20,32 +18,22 @@ button:hover {
   opacity: 0.85;
 }
 
-button.ac {
-  margin-right: 50%;
-}
-
 button.light-grey {
-  background-color: #9f9f9f;
+  background-color: rgb(231, 227, 227);
 }
 
 button.orange {
-  background-color: #836ee2;
-  color: #fff;
+  background-color: #f19a35;
+  color: rgb(8, 8, 8);
 }
 
 button.dark-grey {
-  background-color: #111;
-  color: #fff;
-}
-
-button.double-height {
-  border-radius: 40px;
-  height: 110px;
+  background-color: rgb(231, 227, 227);
+  color: rgb(0, 0, 0);
 }
 
 button.double-width {
-  border-radius: 40px;
-  width: 130px;
+  width: 195px;
 }
 
 .keypad {

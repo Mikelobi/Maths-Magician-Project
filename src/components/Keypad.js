@@ -12,8 +12,14 @@ class Keypad extends React.Component {
   render() {
     return (
       <div className="keypad">
-        <button type="button" className="ac double-width light-grey">
+        <button type="button" className="ac light-grey">
           AC
+        </button>
+        <button type="button" className="light-grey">
+          +/-
+        </button>
+        <button type="button" className="light-grey">
+          %
         </button>
         {this.props.digits.map((num) => (
           <button
