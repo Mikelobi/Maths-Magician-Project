@@ -30,10 +30,6 @@ button:hover {
   opacity: 0.85;
 }
 
-button.ac {
-  margin-right: 50%;
-}
-
 button.light-grey {
   background-color: #9f9f9f;
 }

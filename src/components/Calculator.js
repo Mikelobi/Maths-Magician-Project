@@ -53,6 +53,13 @@ class Calculator extends React.Component {
           >
             AC
           </button>
+          <button
+            type="button"
+            className="light-grey"
+            onClick={this.handleClick}
+          >
+            %
+          </button>
           {this.props.nums.map((num) => (
             <button
               type="button"
