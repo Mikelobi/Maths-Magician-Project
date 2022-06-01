@@ -3,7 +3,7 @@
 ## Preview
 <p align="center">Desktop view</p>
 
-Comin soon
+<img src="./src/assets/desktopview.png">
 
 <h1 align="center"> Maths Magician </h1>
 
