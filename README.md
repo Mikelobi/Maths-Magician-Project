@@ -28,8 +28,12 @@ To get a local copy up and running follow these setup steps below.
 
 ### Setup
 
-- Simply fork this project
-- run `npm install `to install all dependencies
+- git clone `git@github.com:Mikelobi/Maths-Magician-Project.git`
+- cd react-to-do
+
+### Install
+
+- run `npm install`to install all dependencies
 - run `npm run build` to bundle the project with webpack, and
 - run `npm start` to launch the application
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -46,7 +50,7 @@ To get a local copy up and running follow these setup steps below.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Benmuiruri/Maths-Magician-Project/issues).
+Feel free to check the [issues page](https://github.com/Mikelobi/Maths-Magician-Project/issues).
 
 ## Show your support
 
