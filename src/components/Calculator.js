@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import calculate from '../logic/calculate';
-
+import Navigation from './Navigation';
 import './Calculator.css';
 
 const Calculator = () => {
@@ -36,51 +36,74 @@ const Calculator = () => {
   };
 
   return (
-    <div className="calculator">
-      <div id="display-result" className="display-result">
-        <input className="display" placeholder="0" />
+    <div>
+      <Navigation />
+      <div className="calc-content">
+        <h3>
+          Let us do some
+          {' '}
+          <span> Math Magic </span>
+          !
+        </h3>
+        <p>
+          If you notice any bug while perfoming your
+          {' '}
+          <span> Math Magic </span>
+          ,
+          please raise an issue on the project Github page at this
+          {' '}
+          <a href="https://github.com/Mikelobi/Maths-Magician-Project/issues">
+            Issue Page
+          </a>
+          {' '}
+        </p>
       </div>
+      <div className="calculator">
+        <div id="display-result" className="display-result">
+          <input className="display" placeholder="0" />
+        </div>
 
-      <div className="numbers-container">
-        <button
-          type="button"
-          className="double-width light-grey"
-          onClick={handleClick}
-        >
-          AC
-        </button>
-        <button
-          type="button"
-          className="light-grey"
-          onClick={handleClick}
-        >
-          %
-        </button>
-        {numbers.map((num) => (
+        <div className="numbers-container">
           <button
             type="button"
-            className={`dark-grey ${num === 0 && 'double-width'}`}
-            key={num}
+            className="double-width light-grey"
             onClick={handleClick}
           >
-            {num}
+            AC
           </button>
-        ))}
-        <button type="button" className="light-grey" onClick={handleClick}>
-          .
-        </button>
-      </div>
-      <div className="operations-container">
-        {operations.map((op) => (
           <button
             type="button"
-            className="orange"
-            key={op}
+            className="light-grey"
             onClick={handleClick}
           >
-            {op}
+            %
           </button>
-        ))}
+          {numbers.map((num) => (
+            <button
+              type="button"
+              className={`dark-grey ${num === 0 && 'double-width'}`}
+              key={num}
+              onClick={handleClick}
+            >
+              {num}
+            </button>
+          ))}
+          <button type="button" className="light-grey" onClick={handleClick}>
+            .
+          </button>
+        </div>
+        <div className="operations-container">
+          {operations.map((op) => (
+            <button
+              type="button"
+              className="orange"
+              key={op}
+              onClick={handleClick}
+            >
+              {op}
+            </button>
+          ))}
+        </div>
       </div>
     </div>
   );
