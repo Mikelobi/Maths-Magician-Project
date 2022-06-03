@@ -14,14 +14,6 @@
 
 - **REACT** 
 
-## DEMO
-
-- Live demo link coming soon 
-  
-## Video Description
-
-- 
-
 ## Getting Started
 
 To get a local copy up and running follow these setup steps below.
@@ -33,18 +25,24 @@ To get a local copy up and running follow these setup steps below.
 
 ### Install
 
-- run `npm install`to install all dependencies
-- run `npm run build` to bundle the project with webpack, and
-- run `npm start` to launch the application
+- run `npm install`to install all dependencies.
+- run `npm run test` to test the Application.
+- run `npm start` to launch the application.
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Authors
 
-👤 **Authors**
+👤 **Omulu Michael**
 
 - GitHub: [Mikelobi](https://github.com/Mikelobi)
 - Twitter: [Mikelobi](https://twitter.com/@omulum)
-- LinkedIn: [Mikelobi](https://www.linkedin.com/in/benjamin-kiarie-180b66149/)
+- LinkedIn: [Mikelobi](https://linkedin.com/in/ugochukwu-omulu-b9697663)
+
+👤  **Toyosi Taiwo**
+
+- GitHub: [@Yorsyboy](https://github.com/Yorsyboy)
+- Twitter: [@tboytaiwo](https://twitter.com/Tboytaiwo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/taiwo-toyosi)
 
 ## 🤝 Contributing
 
