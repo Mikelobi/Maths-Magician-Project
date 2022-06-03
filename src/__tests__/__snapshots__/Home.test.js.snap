@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test presence of Home component renders the Home component correctly 1`] = `
+<section>
+  <div
+    className="header"
+  >
+    <div>
+      <h1
+        className="header-title"
+      >
+        Math Magicians
+      </h1>
+    </div>
+    <nav
+      className="navigation"
+    >
+      <li
+        className="navLink"
+      >
+        <a
+          aria-current="page"
+          className="link active"
+          data-testid={1}
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li
+        className="navLink"
+      >
+        <a
+          className="link"
+          data-testid={2}
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li
+        className="navLink"
+      >
+        <a
+          className="link"
+          data-testid={3}
+          href="/quotes"
+          onClick={[Function]}
+        >
+          Quotes
+        </a>
+      </li>
+    </nav>
+  </div>
+  <article>
+    <h3>
+      Welcome to your world of calculation
+    </h3>
+    <p>
+      This Single Page Application have 3 pages? Well that is the beauty of
+       
+      <span>
+         React 
+      </span>
+       
+      using React router. Click the Navigations links to go to the
+       
+      <span>
+         Calculator 
+      </span>
+       
+      page or click the
+       
+      <span>
+         Quotes 
+      </span>
+       
+      link to checkout some lovely quotes that will inspire you in solving calculations.
+    </p>
+    <p>
+      if you like the app, show your support by adding a star to the project on
+       
+      <a
+        href="https://github.com/Mikelobi/Maths-Magician-Project"
+      >
+        GitHub
+      </a>
+       
+      .
+    </p>
+  </article>
+</section>
+`;
