@@ -14,6 +14,12 @@
 
 - **REACT** 
 
+## DEMO
+
+- **Netlify Live Link** [Netlify](https://dreamy-semolina-a9a479.netlify.app)
+  
+- **Heruku Live Link** [Heroku](https://maths-magician-project.herokuapp.com/)
+
 ## Getting Started
 
 To get a local copy up and running follow these setup steps below.
